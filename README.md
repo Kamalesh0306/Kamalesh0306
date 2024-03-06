@@ -41,9 +41,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href=""><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/kamalesh-gunasekaran-6a7520240/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kamalesh%20Gunasekaran-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://leetcode.com/Kamalesh0306/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-Kamalesh0306-blue?style=flat-square&logo=LeetCode"></a>
+<a href="kamaleshgunasekaran013@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kamaleshgunasekaran013@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
